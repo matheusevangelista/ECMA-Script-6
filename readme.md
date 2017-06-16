@@ -9,8 +9,8 @@ Documentação [Babel - Comandos](https://babeljs.io/docs/usage/cli/)
 ### Instalando dependências NPM
 ```npm install```
 
-### Executando o Watch do Script ECMA Scritp ˆ
+### Executando o Watch do Script ECMA Script
 ```npm run watch```
 
-### Executando o Build do Script ECMA Scritp ˆ
+### Executando o Build do Script ECMA Script
 ```npm run build```

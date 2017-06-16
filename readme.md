@@ -11,4 +11,4 @@ Documentação [Babel - Comandos](https://babeljs.io/docs/usage/cli/)
 ```npm run watch```
 
 ### Executando o Build do Script ECMA Scritp ˆ
-```npm run build``
+```npm run build```

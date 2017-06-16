@@ -1,3 +1,5 @@
+Starter para projetos utilizando ECMA Script 6
+
 ## Usando Babel/ECMA Script 6
 Foi utilizado o [Babel](http://babeljs.io/) para transpilar o código ECMA Script 6 para JS Nativo.
 Documentação [Babel - Comandos](https://babeljs.io/docs/usage/cli/)

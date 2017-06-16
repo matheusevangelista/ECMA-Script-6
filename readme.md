@@ -17,4 +17,5 @@ Documentação [Babel - Comandos](https://babeljs.io/docs/usage/cli/)
 
 ### Começando com o ECMA Script 6
 [https://rafaell-lycan.com/2015/comecando-com-es6/](https://rafaell-lycan.com/2015/comecando-com-es6/)
+[https://www.concrete.com.br/2016/04/29/guia-do-es6/](https://www.concrete.com.br/2016/04/29/guia-do-es6/)
 [Overview do Padrão](http://es6-features.org/#Constants)

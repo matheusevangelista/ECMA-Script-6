@@ -14,3 +14,6 @@ Documentação [Babel - Comandos](https://babeljs.io/docs/usage/cli/)
 
 ### Executando o Build do Script ECMA Script
 ```npm run build```
+
+### Começando com o ECMA Script 6
+[https://rafaell-lycan.com/2015/comecando-com-es6/](https://rafaell-lycan.com/2015/comecando-com-es6/)
